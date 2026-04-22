@@ -29,20 +29,20 @@
 | # | Название | Описание | Ссылка | 
 |---|----------|----------|----------|
 | 1 | **Только Telegram** | Только Telegram через прокси |
-| 🔗 | **OnlyTG.Json** | JSON-конфиг маршрутизации | [JSON](#) |
-| 🔗 | **OnlyTG.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+| 🔗 | **OnlyTG.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG/OnlyTG.json?token=GHSAT0AAAAAAD2K4GPGNMQXHCC2WV47N52Q2PJFI5A) |
+| 🔗 | **OnlyTG.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG/OnlyTG.deeplink?token=GHSAT0AAAAAAD2K4GPGULQC2T7YNOR2ZAO62PJFIUA) |
 | - | - | - | - |
 | 2 | **Только YouTube** | Только YouTube через прокси |
-| 🔗 | **OnlyYT.Json** | JSON-конфиг маршрутизации | [JSON](#) |
-| 🔗 | **OnlyYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+| 🔗 | **OnlyYT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20YouTube/OnlyYT.json?token=GHSAT0AAAAAAD2K4GPGSBLHO7O6SEZJBDUM2PJFJPA) |
+| 🔗 | **OnlyYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20YouTube/OnlyYT.deeplink?token=GHSAT0AAAAAAD2K4GPH2BMKE6EFWXXGE2UU2PJFKAQ) |
 | - | - | - | - |
 | 3 | **Только WhatsApp** | Только WhatsApp через прокси |
-| 🔗 | **OnlyWA.Json** | JSON-конфиг маршрутизации | [JSON](#) |
-| 🔗 | **OnlyWA.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+| 🔗 | **OnlyWA.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20WhatsApp/OnlyWA.json?token=GHSAT0AAAAAAD2K4GPG4SCOKIKPADJFKM2S2PJFKOA) |
+| 🔗 | **OnlyWA.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20WhatsApp/OnlyWA.deeplink?token=GHSAT0AAAAAAD2K4GPH6ZHH7GH2LQA22JBI2PJFKUA) |
 | - | - | - | - |
 | 4 | **Только TikTok** | Только TikTok через прокси |
-| 🔗 | **OnlyTT.Json** | JSON-конфиг маршрутизации | [JSON](#) |
-| 🔗 | **OnlyTT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+| 🔗 | **OnlyTT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TikTok/OnlyTT.json?token=GHSAT0AAAAAAD2K4GPGH5Z6SCYHS2GV254I2PJFK7Q) |
+| 🔗 | **OnlyTT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TikTok/OnlyTT.deeplink?token=GHSAT0AAAAAAD2K4GPHBQ2FYPDZI35XX27Q2PJFLKQ) |
 
 ### 🔸 Комбинированные профили
 
