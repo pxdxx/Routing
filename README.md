@@ -30,6 +30,7 @@
 | 1 | **Только Telegram** | Только Telegram через прокси |
 | 🔗 | **OnlyTG.Json** | JSON-конфиг маршрутизации | [JSON](#) |
 | 🔗 | **OnlyTG.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+| - | - | - | - |
 | 2 | **Только YouTube** | Только YouTube через прокси |
 | 🔗 | **OnlyYT.Json** | JSON-конфиг маршрутизации | [JSON](#) |
 | 🔗 | **OnlyYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
