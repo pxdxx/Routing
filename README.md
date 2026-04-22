@@ -3,7 +3,7 @@
 # Slapp VPN — Routing
 
 **Готовые конфигурации маршрутизации для [Happ](https://happ.su)**
-- Лучший VPN: [Telegram](https://t.me/SlappVPN_bot)
+###### Лучший VPN: [Telegram](https://t.me/SlappVPN_bot)
 
 > Точечная маршрутизация без лишнего: только нужные сервисы через прокси, всё остальное напрямую
 
@@ -106,7 +106,7 @@ Geosite:  https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@.../geosite
 
 ```json
 {
-  "Name": "RoscomVPN — Только Telegram",
+  "Name": "Slapp VPN — Only Telegram",
   "GlobalProxy": "false",
   "UseChunkFiles": "true",
   "RemoteDNSType": "DoH",
@@ -146,7 +146,7 @@ Geosite:  https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@.../geosite
 
 ```json
 {
-  "Name": "RoscomVPN — Только YouTube",
+  "Name": "Slapp VPN — Only YouTube",
   "GlobalProxy": "false",
   "UseChunkFiles": "true",
   "RemoteDNSType": "DoH",
@@ -189,7 +189,7 @@ Geosite:  https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@.../geosite
 
 ```json
 {
-  "Name": "RoscomVPN — Только WhatsApp",
+  "Name": "Slapp VPN — Only WhatsApp",
   "GlobalProxy": "false",
   "UseChunkFiles": "true",
   "RemoteDNSType": "DoH",
@@ -232,7 +232,7 @@ Geosite:  https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@.../geosite
 
 ```json
 {
-  "Name": "RoscomVPN — Только TikTok",
+  "Name": "Slapp VPN — Only TikTok",
   "GlobalProxy": "false",
   "UseChunkFiles": "true",
   "RemoteDNSType": "DoH",
@@ -275,7 +275,7 @@ Geosite:  https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@.../geosite
 
 ```json
 {
-  "Name": "RoscomVPN — TG + WA + TT + YT",
+  "Name": "Slapp VPN — TG + WA + TT + YT",
   "GlobalProxy": "false",
   "UseChunkFiles": "true",
   "RemoteDNSType": "DoH",
@@ -321,7 +321,7 @@ Geosite:  https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@.../geosite
 
 ```json
 {
-  "Name": "RoscomVPN — TG + TT + YT",
+  "Name": "Slapp VPN — TG + TT + YT",
   "GlobalProxy": "false",
   "UseChunkFiles": "true",
   "RemoteDNSType": "DoH",
@@ -366,7 +366,7 @@ Geosite:  https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@.../geosite
 
 ```json
 {
-  "Name": "RoscomVPN — TG + YT",
+  "Name": "Slapp VPN — TG + YT",
   "GlobalProxy": "false",
   "UseChunkFiles": "true",
   "RemoteDNSType": "DoH",
@@ -409,7 +409,7 @@ Geosite:  https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@.../geosite
 
 ```json
 {
-  "Name": "RoscomVPN — TG + WA",
+  "Name": "Slapp VPN — TG + WA",
   "GlobalProxy": "false",
   "UseChunkFiles": "true",
   "RemoteDNSType": "DoH",
@@ -452,7 +452,7 @@ Geosite:  https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@.../geosite
 
 ```json
 {
-  "Name": "RoscomVPN — WA + YT",
+  "Name": "Slapp VPN — WA + YT",
   "GlobalProxy": "false",
   "UseChunkFiles": "true",
   "RemoteDNSType": "DoH",
@@ -495,7 +495,7 @@ Geosite:  https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@.../geosite
 
 ```json
 {
-  "Name": "RoscomVPN — TT + YT",
+  "Name": "Slapp VPN — TT + YT",
   "GlobalProxy": "false",
   "UseChunkFiles": "true",
   "RemoteDNSType": "DoH",
@@ -539,7 +539,7 @@ Geosite:  https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@.../geosite
 
 ```json
 {
-  "Name": "RoscomVPN — TG + WA + TT",
+  "Name": "Slapp VPN — TG + WA + TT",
   "GlobalProxy": "false",
   "UseChunkFiles": "true",
   "RemoteDNSType": "DoH",
@@ -585,7 +585,7 @@ Geosite:  https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@.../geosite
 
 | Приложение | Платформа | Поддержка |
 |------------|-----------|-----------|
-| [Happ](https://happ.su) | iOS / Android | ✅ |
+| [Happ](https://happ.su) | iOS / Android / Desktop | ✅ |
 | [INCY](https://incy.cc) | iOS / Android | ❌ |
 
 ---
