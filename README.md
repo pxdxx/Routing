@@ -19,6 +19,7 @@
 | # | Название | Описание | Ссылка | 
 |---|----------|----------|----------|
 | 1 | **Full Pack** | Все самое нужное |
+| - | - | - | - |
 | 🔗 | **Full.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Full%20Pack/Full.json?token=GHSAT0AAAAAAD2K4GPHNHIVWDKLP2G3LNBY2PJEZWA) |
 | 🔗 | **Full.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Full%20Pack/Full.Deeplink?token=GHSAT0AAAAAAD2K4GPGURNH6QBGQ6V4NSP42PJE2CA) |
 
