@@ -48,12 +48,33 @@
 | # | Название | Сервисы |
 |---|----------|---------|
 | 5 | **TG + WA + TT + YT** | Telegram + WhatsApp + TikTok + YouTube |
+| 🔗 | **OnlyTGWATTYT.Json** | JSON-конфиг маршрутизации | [JSON](#) |
+| 🔗 | **OnlyTGWATTYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+| - | - | - | - |
 | 6 | **TG + TT + YT** | Telegram + TikTok + YouTube |
+| 🔗 | **OnlyTGTTYT.Json** | JSON-конфиг маршрутизации | [JSON](#) |
+| 🔗 | **OnlyTGTTYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+| - | - | - | - |
 | 7 | **TG + YT** | Telegram + YouTube |
+| 🔗 | **OnlyTGYT.Json** | JSON-конфиг маршрутизации | [JSON](#) |
+| 🔗 | **OnlyTGYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+| - | - | - | - |
 | 8 | **TG + WA** | Telegram + WhatsApp |
+| 🔗 | **OnlyTGWA.Json** | JSON-конфиг маршрутизации | [JSON](#) |
+| 🔗 | **OnlyTGWA.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+| - | - | - | - |
 | 9 | **WA + YT** | WhatsApp + YouTube |
+| 🔗 | **OnlyWATT.Json** | JSON-конфиг маршрутизации | [JSON](#) |
+| 🔗 | **OnlyWATT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+| - | - | - | - |
 | 10 | **TT + YT** | TikTok + YouTube |
+| 🔗 | **OnlyTTYT.Json** | JSON-конфиг маршрутизации | [JSON](#) |
+| 🔗 | **OnlyTTYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+| - | - | - | - |
 | 11 | **TG + WA + TT** | Telegram + WhatsApp + TikTok |
+| 🔗 | **OnlyTGWATT.Json** | JSON-конфиг маршрутизации | [JSON](#) |
+| 🔗 | **OnlyTGWATT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+
 
 ---
 
