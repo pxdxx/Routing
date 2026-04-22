@@ -76,49 +76,6 @@
 | 🔗 | **OnlyTGWATT.Json** | JSON-конфиг маршрутизации | [JSON](#) |
 | 🔗 | **OnlyTGWATT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
 
-
----
-
-## 🗺️ Принцип маршрутизации
-
-Все конфиги используют порядок правил `block → proxy → direct`.
-
-### 🟢 DIRECT (напрямую)
-
-Следующее всегда идёт напрямую, без прокси:
-
-- 🇷🇺 Российские домены (`geosite:category-ru`, `geosite:whitelist`)
-- 🔒 Приватные сети (`geosite:private`, `geoip:private`)
-- 🖥️ Microsoft, Apple — корректная работа устройств
-- 🎮 Игровые платформы: Steam, Epic Games, Riot, Escape from Tarkov
-- 📺 Twitch, Pinterest, Faceit
-
-### 🔵 PROXY (через VPN)
-
-Зависит от профиля — только выбранные сервисы:
-
-| Сервис | Домены | IP-диапазоны |
-|--------|--------|--------------|
-| **Telegram** | `geosite:telegram` | `geoip:telegram` |
-| **YouTube** | `geosite:youtube`, `googlevideo.com`, `ytimg.com`, `youtu.be` | `geoip:google` |
-| **WhatsApp** | `geosite:whatsapp`, `whatsapp.com`, `whatsapp.net`, `wa.me` | `geoip:facebook` |
-| **TikTok** | `geosite:tiktok`, `tiktok.com`, `tiktokcdn.com`, `byteoversea.com` | — |
-
-### 🔴 BLOCK (блокировка)
-
-- 🚫 Телеметрия Windows (`geosite:win-spy`)
-- 🚫 Торренты (`geosite:torrent`)
-- 🚫 Реклама (`geosite:category-ads`)
-
----
-
-## 🌐 DNS
-
-| Назначение | Сервер | Адрес |
-|------------|--------|-------|
-| 🏠 Domestic (для прямого трафика) | Google Public DNS | `77.88.8.8` (DoH) |
-| 🌍 Remote (для проксируемого трафика) | Google Public DNS | `8.8.8.8` (DoH) |
-
 ---
 
 ## ⚙️ Параметры конфигурации
