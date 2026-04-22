@@ -49,8 +49,8 @@
 | # | Название | Сервисы | Ссылка | 
 |---|----------|---------|----------|
 | 5 | **TG + WA + TT + YT** | Telegram + WhatsApp + TikTok + YouTube |
-| 🔗 | **OnlyTGWATTYT.Json** | JSON-конфиг маршрутизации | [JSON](#) |
-| 🔗 | **OnlyTGWATTYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+| 🔗 | **OnlyTGWATTYT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20WA%20%2B%20TT%20%2B%20YT/OnlyTGWATTYT.json?token=GHSAT0AAAAAAD2K4GPHVXV765KDSOEVZLVA2PJFNBA) |
+| 🔗 | **OnlyTGWATTYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20WA%20%2B%20TT%20%2B%20YT/OnlyTGWATTYT.deeplink?token=GHSAT0AAAAAAD2K4GPGRCCT5RRP5QG2YJOO2PJFNHA) |
 | - | - | - | - |
 | 6 | **TG + TT + YT** | Telegram + TikTok + YouTube |
 | 🔗 | **OnlyTGTTYT.Json** | JSON-конфиг маршрутизации | [JSON](#) |
