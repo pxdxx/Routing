@@ -18,7 +18,8 @@
 
 | # | Название | Описание | Ссылка | 
 |---|----------|----------|----------|
-| 1 | **Full Pack** | Все нужное | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Full%20Pack/Full.json?token=GHSAT0AAAAAAD2K4GPGK67D6HHGP6WORX6U2PJEA7Q) |
+| 1 | **Full Pack** | Все нужное |
+| 2 | **Full.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Full%20Pack/Full.json?token=GHSAT0AAAAAAD2K4GPGK67D6HHGP6WORX6U2PJEA7Q) |
 
 ### 🔹 Одиночные профили
 
