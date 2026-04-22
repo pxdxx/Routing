@@ -34,9 +34,11 @@
 | 2 | **Только YouTube** | Только YouTube через прокси |
 | 🔗 | **OnlyYT.Json** | JSON-конфиг маршрутизации | [JSON](#) |
 | 🔗 | **OnlyYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+| - | - | - | - |
 | 3 | **Только WhatsApp** | Только WhatsApp через прокси |
 | 🔗 | **OnlyWA.Json** | JSON-конфиг маршрутизации | [JSON](#) |
 | 🔗 | **OnlyWA.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
+| - | - | - | - |
 | 4 | **Только TikTok** | Только TikTok через прокси |
 | 🔗 | **OnlyTT.Json** | JSON-конфиг маршрутизации | [JSON](#) |
 | 🔗 | **OnlyTT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](#) |
