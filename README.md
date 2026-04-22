@@ -21,8 +21,8 @@
 |---|----------|----------|----------|
 | 1 | **Full Pack** | Все самое нужное |
 | - | - | - | - |
-| 🔗 | **Full.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Full%20Pack/Full.json?token=GHSAT0AAAAAAD2K4GPH5FHWSRXMD3RPOVVW2PJFLXA) |
-| 🔗 | **Full.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Full%20Pack/Full.Deeplink?token=GHSAT0AAAAAAD2K4GPGZJJGZ3UDBRK66CQI2PJFMAQ) |
+| 🔗 | **Full.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Full%20Pack/Full.json) |
+| 🔗 | **Full.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Full%20Pack/Full.Deeplink) |
 
 
 ### 🔹 Одиночные профили
@@ -30,52 +30,52 @@
 | # | Название | Описание | Ссылка | 
 |---|----------|----------|----------|
 | 1 | **Только Telegram** | Только Telegram через прокси |
-| 🔗 | **OnlyTG.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG/OnlyTG.json?token=GHSAT0AAAAAAD2K4GPGNMQXHCC2WV47N52Q2PJFI5A) |
-| 🔗 | **OnlyTG.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG/OnlyTG.deeplink?token=GHSAT0AAAAAAD2K4GPGULQC2T7YNOR2ZAO62PJFIUA) |
+| 🔗 | **OnlyTG.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG/OnlyTG.json) |
+| 🔗 | **OnlyTG.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG/OnlyTG.deeplink) |
 | - | - | - | - |
 | 2 | **Только YouTube** | Только YouTube через прокси |
-| 🔗 | **OnlyYT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20YouTube/OnlyYT.json?token=GHSAT0AAAAAAD2K4GPGSBLHO7O6SEZJBDUM2PJFJPA) |
-| 🔗 | **OnlyYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20YouTube/OnlyYT.deeplink?token=GHSAT0AAAAAAD2K4GPH2BMKE6EFWXXGE2UU2PJFKAQ) |
+| 🔗 | **OnlyYT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20YouTube/OnlyYT.json) |
+| 🔗 | **OnlyYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20YouTube/OnlyYT.deeplink) |
 | - | - | - | - |
 | 3 | **Только WhatsApp** | Только WhatsApp через прокси |
-| 🔗 | **OnlyWA.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20WhatsApp/OnlyWA.json?token=GHSAT0AAAAAAD2K4GPG4SCOKIKPADJFKM2S2PJFKOA) |
-| 🔗 | **OnlyWA.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20WhatsApp/OnlyWA.deeplink?token=GHSAT0AAAAAAD2K4GPH6ZHH7GH2LQA22JBI2PJFKUA) |
+| 🔗 | **OnlyWA.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20WhatsApp/OnlyWA.json) |
+| 🔗 | **OnlyWA.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20WhatsApp/OnlyWA.deeplink) |
 | - | - | - | - |
 | 4 | **Только TikTok** | Только TikTok через прокси |
-| 🔗 | **OnlyTT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TikTok/OnlyTT.json?token=GHSAT0AAAAAAD2K4GPGH5Z6SCYHS2GV254I2PJFK7Q) |
-| 🔗 | **OnlyTT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TikTok/OnlyTT.deeplink?token=GHSAT0AAAAAAD2K4GPHBQ2FYPDZI35XX27Q2PJFLKQ) |
+| 🔗 | **OnlyTT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TikTok/OnlyTT.json) |
+| 🔗 | **OnlyTT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TikTok/OnlyTT.deeplink) |
 
 ### 🔸 Комбинированные профили
 
 | # | Название | Сервисы | Ссылка | 
 |---|----------|---------|----------|
 | 5 | **TG + WA + TT + YT** | Telegram + WhatsApp + TikTok + YouTube |
-| 🔗 | **OnlyTGWATTYT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20WA%20%2B%20TT%20%2B%20YT/OnlyTGWATTYT.json?token=GHSAT0AAAAAAD2K4GPHVXV765KDSOEVZLVA2PJFNBA) |
-| 🔗 | **OnlyTGWATTYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20WA%20%2B%20TT%20%2B%20YT/OnlyTGWATTYT.deeplink?token=GHSAT0AAAAAAD2K4GPGRCCT5RRP5QG2YJOO2PJFNHA) |
+| 🔗 | **OnlyTGWATTYT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20WA%20%2B%20TT%20%2B%20YT/OnlyTGWATTYT.json) |
+| 🔗 | **OnlyTGWATTYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20WA%20%2B%20TT%20%2B%20YT/OnlyTGWATTYT.deeplink) |
 | - | - | - | - |
 | 6 | **TG + TT + YT** | Telegram + TikTok + YouTube |
-| 🔗 | **OnlyTGTTYT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20TT%20%2B%20YT/OnlyTGTTYT.json?token=GHSAT0AAAAAAD2K4GPHYS5D6227JW54KJLK2PJFNYQ) |
-| 🔗 | **OnlyTGTTYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20TT%20%2B%20YT/OnlyTGTTYT.deeplink?token=GHSAT0AAAAAAD2K4GPH3YUE6ZFW3CSL3XUG2PJFN6Q) |
+| 🔗 | **OnlyTGTTYT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20TT%20%2B%20YT/OnlyTGTTYT.json) |
+| 🔗 | **OnlyTGTTYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20TT%20%2B%20YT/OnlyTGTTYT.deeplink) |
 | - | - | - | - |
 | 7 | **TG + YT** | Telegram + YouTube |
-| 🔗 | **OnlyTGYT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20YT/OnlyTGYT.json?token=GHSAT0AAAAAAD2K4GPGUMGVV5OTV7J3ZGLI2PJFOJQ) |
-| 🔗 | **OnlyTGYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20YT/OnlyTGYT.deeplink?token=GHSAT0AAAAAAD2K4GPGYIC674JQP67IZLD62PJFOOQ) |
+| 🔗 | **OnlyTGYT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20YT/OnlyTGYT.json) |
+| 🔗 | **OnlyTGYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20YT/OnlyTGYT.deeplink) |
 | - | - | - | - |
 | 8 | **TG + WA** | Telegram + WhatsApp |
-| 🔗 | **OnlyTGWA.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20WA/OnlyTGWA.json?token=GHSAT0AAAAAAD2K4GPGOIH5QI2OKQVUR5LA2PJFO5Q) |
-| 🔗 | **OnlyTGWA.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20WA/OnlyTGWA.deeplink?token=GHSAT0AAAAAAD2K4GPHMU7HV4FE5Z6EWSGI2PJFPFQ) |
+| 🔗 | **OnlyTGWA.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20WA/OnlyTGWA.json) |
+| 🔗 | **OnlyTGWA.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20WA/OnlyTGWA.deeplink) |
 | - | - | - | - |
 | 9 | **WA + YT** | WhatsApp + YouTube |
-| 🔗 | **OnlyWATT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20WA%20%2B%20YT/OnlyWAYT.json?token=GHSAT0AAAAAAD2K4GPGMHTOASB6FFGFBWIE2PJFQBQ) |
-| 🔗 | **OnlyWATT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20WA%20%2B%20YT/OnlyWAYT.deeplink?token=GHSAT0AAAAAAD2K4GPGNXJLDOXF4LOAHNXU2PJFQHQ) |
+| 🔗 | **OnlyWATT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20WA%20%2B%20YT/OnlyWAYT.json) |
+| 🔗 | **OnlyWATT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20WA%20%2B%20YT/OnlyWAYT.deeplink) |
 | - | - | - | - |
 | 10 | **TT + YT** | TikTok + YouTube |
-| 🔗 | **OnlyTTYT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TT%20%2B%20YT/OnlyTTYT.json?token=GHSAT0AAAAAAD2K4GPH7AC3SQC5WUU644TU2PJFQSA) |
-| 🔗 | **OnlyTTYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TT%20%2B%20YT/OnlyTTYT.deeplink?token=GHSAT0AAAAAAD2K4GPHOYUDVNMU6NSWYYQE2PJFQXA) |
+| 🔗 | **OnlyTTYT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TT%20%2B%20YT/OnlyTTYT.json) |
+| 🔗 | **OnlyTTYT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TT%20%2B%20YT/OnlyTTYT.deeplink) |
 | - | - | - | - |
 | 11 | **TG + WA + TT** | Telegram + WhatsApp + TikTok |
-| 🔗 | **OnlyTGWATT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20WA%20%2B%20TT/OnlyTGWATT.json?token=GHSAT0AAAAAAD2K4GPGMXOAPNYHBSPN7N2O2PJFREA) |
-| 🔗 | **OnlyTGWATT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20WA%20%2B%20TT/OnlyTGWATT.deeplink?token=GHSAT0AAAAAAD2K4GPH2W6ESK5JRQNFOLQI2PJFRKA) |
+| 🔗 | **OnlyTGWATT.Json** | JSON-конфиг маршрутизации | [JSON](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20WA%20%2B%20TT/OnlyTGWATT.json) |
+| 🔗 | **OnlyTGWATT.Deeplink** | Deeplink-конфиг маршрутизации (быстрая ссылка) | [DeepLink](https://raw.githubusercontent.com/pxdxx/Routing/refs/heads/main/Happ-Routing/Only%20TG%20%2B%20WA%20%2B%20TT/OnlyTGWATT.deeplink) |
 
 ---
 
