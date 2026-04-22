@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Slapp VPN — Routing
+# Slapp VPN — Routing
 
 **Готовые конфигурации маршрутизации для [Happ](https://happ.su)**
 
