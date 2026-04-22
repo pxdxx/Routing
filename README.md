@@ -585,13 +585,11 @@ Geosite:  https://cdn.jsdelivr.net/gh/hydraponique/roscomvpn-geosite@.../geosite
 | Приложение | Платформа | Поддержка |
 |------------|-----------|-----------|
 | [Happ](https://happ.su) | iOS / Android | ✅ |
-| [INCY](https://incy.cc) | iOS / Android | ✅ |
+| [INCY](https://incy.cc) | iOS / Android | ❌ |
 
 ---
 
 <div align="center">
-
-> Ставь ⭐ и не пропускай обновления
 
 ###### Сделано с ❤️ к свободному интернету
 
